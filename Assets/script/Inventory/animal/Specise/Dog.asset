@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 70dde6b40dd92c649adbe86e76548541, type: 3}
+  m_Name: Dog
+  m_EditorClassIdentifier: 
+  anmalSpecise: Dog
+  animalImage: {fileID: 21300000, guid: f2ddf945c223843de8228d229e73a8a4, type: 3}
+  saveNum: 0
+  deadNum: 0
+  beSaw: 0
+  AnimalInfo: Pet dog's descendants
